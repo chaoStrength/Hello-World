@@ -1,1 +1,2 @@
-# Hello-World
+# About
+This is a demo project.
